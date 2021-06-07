@@ -5,7 +5,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30jannik06)](https://github.com/30jannik06/github-readme-stats)-->
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30jannik06&show_icons=true&title_color=ffffff&icon_color=bb2ac&text_color=daf7dc&bg_color=151515&hide_border=true&layout=compact&langs_count=8"/>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30jannik06&layout=compact)](https://github.com/30jannik06/github-readme-stats)
 
 
 <!--

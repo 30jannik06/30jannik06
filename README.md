@@ -19,3 +19,7 @@ ___
 <p align="center">
   <a href="http://forthebadge.com/"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="forthebadge"/></a>
 </p>
+<br>
+<p align="center">
+<a href="https://www.buymeacoffee.com/30jannik06" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
